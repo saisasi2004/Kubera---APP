@@ -174,4 +174,6 @@ Kubera is available as an **Android APK**. Just share the file and you're good t
 
 </div>
 
-#Designed and Developed by GSSV
+<div align="center">
+Designed and Developed by **GSSV**
+</div>
