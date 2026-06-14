@@ -173,3 +173,5 @@ Kubera is available as an **Android APK**. Just share the file and you're good t
 *Kubera doesn't just store your transactions. It tells you the story of your money.*
 
 </div>
+
+#Designed and Developed by GSSV
