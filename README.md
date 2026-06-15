@@ -12,7 +12,7 @@
 
 ## What is Kubera?
 
-**Kubera** is named after **Kubera** — the Hindu god of wealth, treasury, and riches. He is the divine banker of the gods, the guardian of treasures, and the lord of all riches. Just like the mythological Kubera watched over the wealth of the heavens, **Kubera the app watches over every rupee of yours** — tracking, organizing, and helping you understand where your money goes.
+**Kubera** is named after **Kubera** — the Hindu god of wealth, treasury, and riches. He is the divine banker of the gods, the guardian of treasures, and the lord of all riches. Just like the Kubera watched over the wealth of the heavens, **Kubera the app watches over every rupee of yours** — tracking, organizing, and helping you understand where your money goes.
 
 Kubera is a **personal finance tracker** built for real people with real money problems. It's not another boring spreadsheet or a complicated banking app. It's **your personal money companion** that helps you answer the one question we all ask:
 
